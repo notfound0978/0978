@@ -19,7 +19,7 @@
         $progresspreference = 'silentlycontinue'
 
         Write-Host "DL`n"
-		## explorer "https://github.com/FR33THYFR33THY/WinSux/tree/main/WinSux"
+		## explorer "https://github.com/notfound0978/WinSux/tree/main/WinSux"
 
 # download winsux temp files
 IWR "https://github.com/notfound0978/WinSux/raw/refs/heads/main/WinSux/reg.reg" -OutFile "$env:SystemRoot\Temp\reg.reg"
