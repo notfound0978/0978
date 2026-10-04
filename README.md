@@ -8,7 +8,7 @@ Windows one click guide for power users
 # IWR
 Paste below code into an elevated Administrator PowerShell window
 ```
-iwr 'https://github.com/notfound0978/WinSux/raw/refs/heads/main/WinSux/winsux.ps1' -useb | iex
+iwr 'https://github.com/notfound0978/0978/raw/refs/heads/main/WinSux/winsux.ps1' -useb | iex
 ```
 
 # Graphics
