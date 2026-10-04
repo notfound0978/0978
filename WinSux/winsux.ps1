@@ -19,14 +19,14 @@
         $progresspreference = 'silentlycontinue'
 
         Write-Host "DL`n"
-		## explorer "https://github.com/notfound0978/WinSux/tree/main/WinSux"
+		## explorer "https://github.com/notfound0978/0978/tree/main/WinSux"
 
 # download winsux temp files
-IWR "https://github.com/notfound0978/WinSux/raw/refs/heads/main/WinSux/reg.reg" -OutFile "$env:SystemRoot\Temp\reg.reg"
-IWR "https://github.com/notfound0978/WinSux/raw/refs/heads/main/WinSux/settimerresolutionservice.cs" -OutFile "$env:SystemRoot\Temp\settimerresolutionservice.cs"
-IWR "https://github.com/notfound0978/WinSux/raw/refs/heads/main/WinSux/start2.txt" -OutFile "$env:SystemRoot\Temp\start2.txt"
-IWR "https://github.com/notfound0978/WinSux/raw/refs/heads/main/WinSux/stepone.ps1" -OutFile "$env:SystemRoot\Temp\stepone.ps1"
-IWR "https://github.com/notfound0978/WinSux/raw/refs/heads/main/WinSux/steptwo.ps1" -OutFile "$env:SystemRoot\Temp\steptwo.ps1"
+IWR "https://github.com/notfound0978/0978/raw/refs/heads/main/WinSux/reg.reg" -OutFile "$env:SystemRoot\Temp\reg.reg"
+IWR "https://github.com/notfound0978/0978/raw/refs/heads/main/WinSux/settimerresolutionservice.cs" -OutFile "$env:SystemRoot\Temp\settimerresolutionservice.cs"
+IWR "https://github.com/notfound0978/0978/raw/refs/heads/main/WinSux/start2.txt" -OutFile "$env:SystemRoot\Temp\start2.txt"
+IWR "https://github.com/notfound0978/0978/raw/refs/heads/main/WinSux/stepone.ps1" -OutFile "$env:SystemRoot\Temp\stepone.ps1"
+IWR "https://github.com/notfound0978/0978/raw/refs/heads/main/WinSux/steptwo.ps1" -OutFile "$env:SystemRoot\Temp\steptwo.ps1"
 
         Write-Host "7Z`n"
         ## explorer "https://www.7-zip.org" 
